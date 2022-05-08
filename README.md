@@ -22,3 +22,5 @@ Feature descriptions:<br />
 	- casual: count of casual users<br />
 	- registered: count of registered users<br />
 	- cnt: count of total rental bikes including both casual and registered
+
+Acknowledgement goes to my other team members at IE: Alexandre Collot, Julian Krauth, Ann-Charlotte Verstreken, Edward Melgar, Pieter Van Poecke, and Karim El Chamaa.
